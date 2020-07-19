@@ -1,6 +1,3 @@
 test file #2
 
-i decided to add something new
-
-
-new code added
+echo("Hello")
